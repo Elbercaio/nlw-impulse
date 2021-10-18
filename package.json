@@ -5,6 +5,7 @@
   "repository": "git@github.com:Elbercaio/nlw-impulse.git",
   "author": "Elber Lopes <elbercaio@gmail.com>",
   "license": "MIT",
+  "scripts": {"dev": "ts-node-dev src/app.ts"},
   "dependencies": {
     "express": "^4.17.1"
   },
